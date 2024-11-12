@@ -1,0 +1,6 @@
+requests
+argparse
+python-dotenv
+clean-text
+PyMuPDF
+pinecone-client
