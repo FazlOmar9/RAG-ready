@@ -1,6 +1,6 @@
 # RAG-ready
 
-This project processes PDFs to generate RAG-ready vectors stored in Pinecone. It requires specific API keys to be set in a `.env` file.
+RAG-ready pipelines your PDF preprocessing, chunking, vectorisation and storage to Pinecone. Go from documents to a rag ready pinecone index in one go. Be it for search applications, chatbot development or recommendation systems - RAG-ready simplifies it all.
 
 ## Requirements
 
