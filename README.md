@@ -15,8 +15,8 @@ This project processes PDFs to generate RAG-ready vectors stored in Pinecone. It
 1. Clone the repository:
 
     ```sh
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone https://github.com/FazlOmar9/RAG-ready.git
+    cd RAG-ready
     ```
 
 2. Create a virtual environment:
